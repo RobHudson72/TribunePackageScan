@@ -1,0 +1,1 @@
+include ':app', ':com.symbol.emdk'
